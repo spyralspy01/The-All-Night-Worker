@@ -10,4 +10,4 @@
 * *We are a group of developers who aim to deliver consumer satisfactory merchandise, irrespective of demand we strive to reach expectations.*
 
 ##### **SCRUM TEMPLATE**
-*[*trello link*](https://trello.com/b/TJ5RPlw2/scrum-template)
+*  [*trello link*](https://trello.com/b/TJ5RPlw2/scrum-template)
